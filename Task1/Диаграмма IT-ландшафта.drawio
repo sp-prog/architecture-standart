@@ -4,309 +4,271 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RIAKumC_7aICAaUO6vAp-14" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="110" y="450" width="840" height="908" as="geometry" />
+        <mxCell id="RIAKumC_7aICAaUO6vAp-14" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="110" y="450" width="840" height="794" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-15" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="RIAKumC_7aICAaUO6vAp-14" vertex="1">
           <mxGeometry width="840" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-16" value="" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-15">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-16" value="" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-15" vertex="1">
           <mxGeometry width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-74" value="&#xa;Продажи через call-центры&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-15">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-74" value="&#xa;Продажи через call-центры&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-15" vertex="1">
           <mxGeometry x="120" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-102" value="&#xa;Обслуживание депозитных процессов&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-15">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-102" value="&#xa;Обслуживание депозитных процессов&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-15" vertex="1">
           <mxGeometry x="240" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-17" value="Продажи в сети отделений" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-15">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-17" value="Продажи в сети отделений" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-15" vertex="1">
           <mxGeometry x="360" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-33" value="Обслуживание кредитных процессов" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-15">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-33" value="Обслуживание кредитных процессов" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-15" vertex="1">
           <mxGeometry x="480" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-36" value="Управление договорами" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-15">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-36" value="Управление договорами" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-15" vertex="1">
           <mxGeometry x="600" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-125" value="&#xa;Digital-оповещения&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-15">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-125" value="&#xa;Digital-оповещения&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-15" vertex="1">
           <mxGeometry x="720" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-19" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-19" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="RIAKumC_7aICAaUO6vAp-14" vertex="1">
           <mxGeometry y="114" width="840" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-20" value="Управление обслуживанием в сети отделений" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-19">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-20" value="Управление обслуживанием в сети отделений" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-19" vertex="1">
           <mxGeometry width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-75" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-19">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-75" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-19" vertex="1">
           <mxGeometry x="120" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-103" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-19">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-103" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-19" vertex="1">
           <mxGeometry x="240" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-21" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-19">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-21" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-19" vertex="1">
           <mxGeometry x="360" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-34" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-19">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-34" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-19" vertex="1">
           <mxGeometry x="480" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-37" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-19">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-37" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-19" vertex="1">
           <mxGeometry x="600" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-126" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-19">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-126" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-19" vertex="1">
           <mxGeometry x="720" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-117" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-117" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="RIAKumC_7aICAaUO6vAp-14" vertex="1">
           <mxGeometry y="226" width="840" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-118" value="&#xa;Управление обслуживанием кредитных продуктов&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-117">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-118" value="&#xa;Управление обслуживанием кредитных продуктов&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-117" vertex="1">
           <mxGeometry width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-119" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-117">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-119" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-117" vertex="1">
           <mxGeometry x="120" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-120" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-117">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-120" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-117" vertex="1">
           <mxGeometry x="240" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-121" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-117">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-121" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-117" vertex="1">
           <mxGeometry x="360" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-123" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-117">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-123" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-117" vertex="1">
           <mxGeometry x="480" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-124" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-117">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-124" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-117" vertex="1">
           <mxGeometry x="600" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-127" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-117">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-127" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-117" vertex="1">
           <mxGeometry x="720" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-63" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-63" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="RIAKumC_7aICAaUO6vAp-14" vertex="1">
           <mxGeometry y="340" width="840" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-64" value="Управление обслуживанием депозитных продуктов" style="connectable=0;recursiveResize=0;strokeColor=#314354;fillColor=#647687;align=center;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-63">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-64" value="Управление обслуживанием депозитных продуктов" style="connectable=0;recursiveResize=0;strokeColor=#314354;fillColor=#647687;align=center;whiteSpace=wrap;html=1;fontColor=#ffffff;" parent="RIAKumC_7aICAaUO6vAp-63" vertex="1">
           <mxGeometry width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-77" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-63">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-77" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-63" vertex="1">
           <mxGeometry x="120" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-105" value="&lt;br&gt;&lt;div&gt;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-63">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-105" value="&lt;br&gt;&lt;div&gt;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;br&gt;&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-63" vertex="1">
           <mxGeometry x="240" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-65" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-63">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-65" value="&#xa;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-63" vertex="1">
           <mxGeometry x="360" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-69" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-63">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-69" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-63" vertex="1">
           <mxGeometry x="480" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-70" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-63">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-70" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-63" vertex="1">
           <mxGeometry x="600" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-128" value="&lt;br&gt;&lt;div&gt;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-63">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-128" value="&lt;br&gt;&lt;div&gt;&lt;strong&gt;Автоматизированная банковская система (АБС)&lt;/strong&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-63" vertex="1">
           <mxGeometry x="720" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-132" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
-          <mxGeometry y="454" width="840" height="114" as="geometry" />
+        <mxCell id="RIAKumC_7aICAaUO6vAp-109" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="RIAKumC_7aICAaUO6vAp-14" vertex="1">
+          <mxGeometry y="454" width="840" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-133" value="&#xa;Управление обслуживанием депозитных продуктов&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#314354;fillColor=#647687;align=center;whiteSpace=wrap;html=1;fontColor=#ffffff;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-132">
-          <mxGeometry width="120" height="114" as="geometry">
-            <mxRectangle width="120" height="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-134" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-132">
-          <mxGeometry x="120" width="120" height="114" as="geometry">
-            <mxRectangle width="120" height="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-135" value="&#xa;&lt;div&gt;&lt;strong&gt;Интернет-банк&lt;/strong&gt;&lt;/div&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#9673a6;fillColor=#e1d5e7;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-132">
-          <mxGeometry x="240" width="120" height="114" as="geometry">
-            <mxRectangle width="120" height="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-136" style="connectable=0;recursiveResize=0;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-132">
-          <mxGeometry x="360" width="120" height="114" as="geometry">
-            <mxRectangle width="120" height="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-137" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-132">
-          <mxGeometry x="480" width="120" height="114" as="geometry">
-            <mxRectangle width="120" height="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-138" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-132">
-          <mxGeometry x="600" width="120" height="114" as="geometry">
-            <mxRectangle width="120" height="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-139" value="&#xa;&lt;div&gt;&lt;strong&gt;СМС-шлюз телеком-оператора&lt;/strong&gt;&lt;/div&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#82b366;fillColor=#d5e8d4;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-132">
-          <mxGeometry x="720" width="120" height="114" as="geometry">
-            <mxRectangle width="120" height="114" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-109" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
-          <mxGeometry y="568" width="840" height="112" as="geometry" />
-        </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-110" value="&#xa;Call-центр&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-109">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-110" value="&#xa;Call-центр&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-109" vertex="1">
           <mxGeometry width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-111" value="&#xa;&lt;strong&gt;Система кол-центра&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-109">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-111" value="&#xa;&lt;strong&gt;Система кол-центра&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-109" vertex="1">
           <mxGeometry x="120" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-112" value="&#xa;&lt;br&gt;&lt;strong&gt;Система кол-центра&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-109">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-112" value="&#xa;&lt;br&gt;&lt;strong&gt;Система кол-центра&lt;/strong&gt;&#xa;&#xa;" style="connectable=0;recursiveResize=0;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-109" vertex="1">
           <mxGeometry x="240" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-113" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-109">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-113" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-109" vertex="1">
           <mxGeometry x="360" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-115" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-109">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-115" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-109" vertex="1">
           <mxGeometry x="480" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-116" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-109">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-116" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-109" vertex="1">
           <mxGeometry x="600" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-129" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-109">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-129" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-109" vertex="1">
           <mxGeometry x="720" width="120" height="112" as="geometry">
             <mxRectangle width="120" height="112" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-47" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
-          <mxGeometry y="680" width="840" height="114" as="geometry" />
+        <mxCell id="RIAKumC_7aICAaUO6vAp-47" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="RIAKumC_7aICAaUO6vAp-14" vertex="1">
+          <mxGeometry y="566" width="840" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-48" value="IT-отдел" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-47">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-48" value="IT-отдел" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-47" vertex="1">
           <mxGeometry width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-79" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-47">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-79" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-47" vertex="1">
           <mxGeometry x="120" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-107" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-47">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-107" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-47" vertex="1">
           <mxGeometry x="240" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-49" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-47">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-49" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-47" vertex="1">
           <mxGeometry x="360" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-53" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-47">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-53" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-47" vertex="1">
           <mxGeometry x="480" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-54" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-47">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-54" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-47" vertex="1">
           <mxGeometry x="600" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-130" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-47">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-130" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-47" vertex="1">
           <mxGeometry x="720" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-39" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-14">
-          <mxGeometry y="794" width="840" height="114" as="geometry" />
+        <mxCell id="RIAKumC_7aICAaUO6vAp-39" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" parent="RIAKumC_7aICAaUO6vAp-14" vertex="1">
+          <mxGeometry y="680" width="840" height="114" as="geometry" />
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-40" value="Команда цифровой трансформации розничного бизнеса" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-39">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-40" value="Команда цифровой трансформации розничного бизнеса" style="connectable=0;recursiveResize=0;strokeColor=#666666;fillColor=#f5f5f5;align=center;whiteSpace=wrap;html=1;fontColor=#333333;" parent="RIAKumC_7aICAaUO6vAp-39" vertex="1">
           <mxGeometry width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-80" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-39">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-80" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-39" vertex="1">
           <mxGeometry x="120" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-108" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-39">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-108" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-39" vertex="1">
           <mxGeometry x="240" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-41" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-39">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-41" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-39" vertex="1">
           <mxGeometry x="360" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-45" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-39">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-45" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-39" vertex="1">
           <mxGeometry x="480" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-46" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-39">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-46" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-39" vertex="1">
           <mxGeometry x="600" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RIAKumC_7aICAaUO6vAp-131" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="RIAKumC_7aICAaUO6vAp-39">
+        <mxCell id="RIAKumC_7aICAaUO6vAp-131" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" parent="RIAKumC_7aICAaUO6vAp-39" vertex="1">
           <mxGeometry x="720" width="120" height="114" as="geometry">
             <mxRectangle width="120" height="114" as="alternateBounds" />
           </mxGeometry>
